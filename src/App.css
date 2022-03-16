@@ -43,15 +43,3 @@ div {
   padding: 5px;
 }
 
-.main-body{
-  padding:0;
-  display:flex;
-  height: 60rem;
-}
-.bedroom-right{
-display: flex;
-}
-.bed{
-  height: 50px;
-  color: green;
-}
